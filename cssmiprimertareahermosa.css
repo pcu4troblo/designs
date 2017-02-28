@@ -1,0 +1,9 @@
+.btn{
+  background-color: #3CB371;
+}
+.btn:hover{
+  background-color: white;
+}
+#mocho{
+  color: grey;
+}
